@@ -1,6 +1,6 @@
 # TermithronC
 
-The TermithronC is an expansion to the original Termithron Project made by [idkDwij](https://github.com/IdkDwij/Termithon) on GitHub. Its written in C for now. (_I will learn C++ later on_)
+The TermithronC is an expansion to the original Termithron Project made by [idkDwij](https://github.com/IdkDwij/Termithon) on GitHub. Its written in C for now. Some Python3 stuff will be added (_I will learn C++ later on_)
 
 ## Installation
 
