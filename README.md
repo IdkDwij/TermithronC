@@ -1,10 +1,10 @@
-# TermithronC
+# TermiC
 
-The TermithronC is an expansion to the original Termithron Project made by [idkDwij](https://github.com/IdkDwij/Termithon) on GitHub. Its written in C for now. Some Python3 stuff will be added (_I will learn C++ later on_)
+Inspired by Termithron made by [idkDwij](https://github.com/IdkDwij/Termithon) on GitHub. Its written in C for now. (_I will learn C++ later on_)
 
 ## Installation
 
-Use [PyCharm](https://www.jetbrains.com/pycharm/) or [Visual Studio Code](https://code.visualstudio.com/) (_Make sure to install the C/C++ Extensions from the Marketplace to compile!_)
+[Visual Studio Code](https://code.visualstudio.com/) (_Make sure to install the C/C++ Extensions from the Marketplace to compile!_)
 
 ![Installation](https://code.visualstudio.com/assets/docs/languages/cpp/cpp-extension.png)
 
