@@ -4,11 +4,14 @@ Inspired by Termithron made by [idkDwij](https://github.com/IdkDwij/Termithon) o
 
 ## Installation
 
-[Visual Studio Code](https://code.visualstudio.com/) (_Make sure to install the C/C++ Extensions from the Marketplace to compile!_)
+[Visual Studio Code](https://code.visualstudio.com/) (_Make sure to install the C/C++ Extensions from the Marketplace to compile! AND the GNU compiler_)
+
+[CodeBlocks](https://www.codeblocks.org/) (Nothing required to compile)
 
 ![Installation](https://code.visualstudio.com/assets/docs/languages/cpp/cpp-extension.png)
+![Alt](https://www.codeblocks.org/docs/cb_splash.png)
 
-## The Raw Code
+## The intial code...
 
 ```c
 #include <stdio.h>
