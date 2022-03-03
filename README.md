@@ -28,6 +28,31 @@ int main() {
 }
 ```
 
+# Commands list
+
+```c
+/*
+    You can enter the following commands:
+    write  >>> To write to a file
+    read   >>> To read from a file
+    append >>> To append a file
+    remove >>> To remove a file
+    rename >>> To rename a file
+    clr    >>> To clear the screen
+    dt     >>> To show date and time
+    stscr  >>> To show start screen
+    edit   >>> To edit a file
+    cdir   >>> To see the directory(location) and files
+    copy   >>> To copy one file to new file or append to a existing file
+    cknow  >>> To know how many time(s) a character repeated in file
+    lknow  >>> To know how line(s) are there in a file
+    gcd    >>> To perform GCD of numbers
+    lcm    >>> To perform LCM of numbers
+    tconv  >>> To convert temperatures
+    exit   >>> To exit
+*/
+```
+
 ## What I am planning this terminal to look like...
 ![Terminal](https://upload.wikimedia.org/wikipedia/commons/7/78/Appleterminal2.png)
 
