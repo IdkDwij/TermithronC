@@ -32,7 +32,7 @@ int main(){
     printf("       Terminal         \n");
     printf("______________________\n");
     dt();
-    printf("Welcome to the TermithronC!\n");
+    printf("Welcome to the TermiC!\n");
     printf("Type \"help\" for list of commands!\n\n");
     while(1){
     printf(">>> ");
