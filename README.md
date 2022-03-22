@@ -50,6 +50,9 @@ int main() {
     lcm    >>> To perform LCM of numbers
     tconv  >>> To convert temperatures
     exit   >>> To exit
+    green  >>> To change color to green (WINDOWS ONLY)
+    cmd    >>> To open up Windows Command Prompt
+    bash   >>> To open up Linux BASH Prompt
 */
 ```
 
