@@ -1,6 +1,8 @@
 # TermiC
 
-Inspired by Termithron made by [idkDwij](https://github.com/IdkDwij/Termithon) on GitHub. Its written in C for now. (_I will learn C++ later on_)
+Inspired by Termithon made by [idkDwij](https://github.com/IdkDwij/Termithon) on GitHub. Its written in C for now. (_I will learn C++ later on_)
+
+### IMPORTANT NOTICE AT BOTTOM!!!!! (Antivirus False Positives)
 
 ## Installation
 
@@ -68,3 +70,8 @@ Please make sure to update tests as appropriate.
 
 ## License
 [GNU 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+
+# ℕ𝕖𝕧𝕖𝕣 𝔾𝕠𝕟𝕟𝕒 𝔾𝕚𝕧𝕖 𝕐𝕠𝕦 𝕌𝕡 
+
+LMAOOOOOOO
