@@ -15,22 +15,6 @@ DO NOT USE THE GCC COMPILER, it won't work trust.
 
 ![Alt](https://www.codeblocks.org/docs/cb_splash.png)
 
-## The intial code...
-
-```c
-#include <stdio.h>
-#include <stdlib.h>
-
-int main() {
-    printf("_________________________\n");
-    printf("        TERMINAL\n");
-    printf("_________________________\n");
-    printf("\n");
-    char dev[] = "joalricha869";
-    printf("Made in C by %s\n", dev);
-    return 0;
-}
-```
 
 # Commands list
 
@@ -60,8 +44,6 @@ int main() {
 */
 ```
 
-## What I am planning this terminal to look like...
-![Terminal](https://upload.wikimedia.org/wikipedia/commons/7/78/Appleterminal2.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -74,4 +56,4 @@ Please make sure to update tests as appropriate.
 
 # ℕ𝕖𝕧𝕖𝕣 𝔾𝕠𝕟𝕟𝕒 𝔾𝕚𝕧𝕖 𝕐𝕠𝕦 𝕌𝕡 
 
-LMAOOOOOOO
+LMAOOOOOOO GET ROLLED
