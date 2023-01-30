@@ -1,6 +1,6 @@
 # TermiC
 
-Inspired by Termithon made by [idkDwij](https://github.com/IdkDwij/Termithon) on GitHub. Its written in C for now. (_I will learn C++ later on_)
+Inspired by Termithon made by [idkDwij](https://github.com/IdkDwij/Termithon) on GitHub. Its written in C for now. (_~~I will learn C++ later on~~_   Screw That This Project is Dead)
 
 ### uhhhhh i forgor 💀
 
