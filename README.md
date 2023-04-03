@@ -4,7 +4,7 @@ Inspired by Termithon made by [idkDwij](https://github.com/IdkDwij/Termithon) on
 
 ### uhhhhh i forgor 💀
 
-### TermiC is NOT Dead, it's mantained by (@theclosedbitter)[https://github.com/theclosedbitter] on | [TermiC - Codeberg](https://codeberg.org/theclosedbitter/TermiC)
+### TermiC is NOT Dead, it's mantained by [@theclosedbitter](https://github.com/theclosedbitter) on | [TermiC - Codeberg](https://codeberg.org/theclosedbitter/TermiC)
 
 ## Installation
 
