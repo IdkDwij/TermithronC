@@ -24,7 +24,9 @@ void ccount();
 void gcd();
 void lcm();
 void tconv();
-
+void colorGreen();
+void cmd();
+void bash();
 
 int main(){
     char a[100];
@@ -32,7 +34,7 @@ int main(){
     printf("       Terminal         \n");
     printf("______________________\n");
     dt();
-    printf("Welcome to the TermithronC!\n");
+    printf("Welcome to the TermiC!\n");
     printf("Type \"help\" for list of commands!\n\n");
     while(1){
     printf(">>> ");
@@ -85,6 +87,18 @@ int main(){
     }else if(strcmp(a, "tconv") == 0){
 
         tconv();
+    
+    }else if(strcmp(a, "green") == 0){
+        
+        colorGreen();
+        
+    }else if(strcmp(a, "cmd") == 0){
+        
+        cmd();
+        
+    }else if(strcmp(a, "bash") == 0){
+        
+        bash();
 
     }else if(strcmp(a, "exit") == 0){
 
@@ -141,13 +155,24 @@ void read(){
 
 }
 
+void colorGreen(){
+    system("COLOR A");
+}
+
+void cmd(){
+    system("cmd");
+}
+
+void bash(){
+    system("bash");
+}
+
 void write(){
 
     char a[100];
 
     printf("Use .txt or any other extension to write\nEx: hello.txt\n\n");
 
-    system("COLOR 37");
 
         FILE *p;
 
@@ -517,8 +542,12 @@ void help(){
     printf("lcm    >>> To perform LCM of numbers\n");
     printf("tconv  >>> To convert temperatures\n");
     printf("exit   >>> To exit\n");
+    printf("green  >>> To set terminal color to green\n");
+    printf("cmd    >>> To open up Windows Command Prompt\n");
+    printf("bash   >>> To open up Linux BASH Prompt\n");
     printf("\n");
 }
 void exits(){
     exit(1);
 }
+
